@@ -26,7 +26,7 @@
 
 <br>
 
-- 👋 Hello! I'm a Data Engineer with over 4 years of experience in building efficient data pipelines and cloud migrations. 
+- 👋 Hello! I'm a Data Engineer with over 5 years of experience in building efficient data pipelines and cloud migrations. 
 - Expertise in cloud platforms (Azure, AWS), leveraging Python, SQL, and machine learning libraries like Pandas, NumPy, and TensorFlow to drive insights.
 - I have a proven track record of automating workflows and creating scalable solutions for business intelligence through Power BI and Tableau.
 - Passionate about solving real-world problems using data. Let’s connect and explore data-driven solutions! 🏆
